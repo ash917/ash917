@@ -11,7 +11,7 @@ ash917/ash917 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ash917&repo=ash917.github.io)](https://github.com/ash917)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ash917&repo=ash917.github.io)](ash917.github.io)
  
  
  
