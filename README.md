@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ash917&repo=ash917.github.io)](https://ash917.github.io/)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash917)](https://github.com/ash917)
+ 
  
  
 
